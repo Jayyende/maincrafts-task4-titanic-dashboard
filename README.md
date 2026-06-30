@@ -69,43 +69,7 @@ This dashboard includes the following visualizations:
 
 ---
 
-## 📷 Project Screenshots
 
-### 📊 Age Distribution
-
-![Age Distribution](age_distribution.png)
-
----
-
-### 📊 Survival Rate by Passenger Class
-
-![Passenger Class Survival](passenger_class_survival.png)
-
----
-
-### 📊 Fare Distribution by Passenger Class
-
-![Fare Distribution](fare_boxplot.png)
-
----
-
-### 📊 Age vs Fare Scatter Plot
-
-![Scatter Plot](age_fare_scatter.png)
-
----
-
-### 📊 Correlation Heatmap
-
-![Heatmap](heatmap.png)
-
----
-
-### 📊 Project Conclusion
-
-![Conclusion](conclusion.png)
-
----
 
 ## 📁 Repository Contents
 
@@ -118,7 +82,6 @@ maincrafts-task4-titanic-dashboard
 │   ├── fare_boxplot.png
 │   ├── age_fare_scatter.png
 │   ├── heatmap.png
-│   └── conclusion.png
 │
 ├── Task4_Titanic_Visualization_Dashboard.pdf
 ├── train.csv
